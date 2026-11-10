@@ -1,31 +1,31 @@
-FirstName,LastName,DisplayName,SamAccountName,UserPrincipalName,Password,Department,Title,OU
-Alex,Smith,Alex Smith,asmith,asmith@lab.local,4N9f3+v8lqxq!=,IT,IT Administrator,"OU=IT,OU=Users,OU=Lab,DC=lab,DC=local"
-Jordan,Moore,Jordan Moore,jmoore,jmoore@lab.local,xLe%Nj=9Y!-pnk,HR,HR Specialist,"OU=HR,OU=Users,OU=Lab,DC=lab,DC=local"
-Taylor,Wright,Taylor Wright,twright,twright@lab.local,XiTUqNp5*PDc@s,Finance,Accountant,"OU=Finance,OU=Users,OU=Lab,DC=lab,DC=local"
-Morgan,Mitchell,Morgan Mitchell,mmitchell,mmitchell@lab.local,sEx*^edbS!9R7m,Sales,Sales Representative,"OU=Sales,OU=Users,OU=Lab,DC=lab,DC=local"
-Casey,Collins,Casey Collins,ccollins,ccollins@lab.local,LB1vh166@hqY8Y,Marketing,Marketing Coordinator,"OU=Marketing,OU=Users,OU=Lab,DC=lab,DC=local"
-Riley,Davis,Riley Davis,rdavis,rdavis@lab.local,07Zb!k^^Xt*G!z,Engineering,Software Engineer,"OU=Engineering,OU=Users,OU=Lab,DC=lab,DC=local"
-Avery,Young,Avery Young,ayoung,ayoung@lab.local,9%2jiXM*X0arJ@,IT,IT Administrator,"OU=IT,OU=Users,OU=Lab,DC=lab,DC=local"
-Quinn,Nelson,Quinn Nelson,qnelson,qnelson@lab.local,0HF8qlfS+^YP0^,HR,HR Specialist,"OU=HR,OU=Users,OU=Lab,DC=lab,DC=local"
-Parker,Evans,Parker Evans,pevans,pevans@lab.local,&Tj48tB5t6ZEJS,Finance,Accountant,"OU=Finance,OU=Users,OU=Lab,DC=lab,DC=local"
-Reese,Garcia,Reese Garcia,rgarcia,rgarcia@lab.local,uSk@tE7OvCU5A3,Sales,Sales Representative,"OU=Sales,OU=Users,OU=Lab,DC=lab,DC=local"
-Jamie,Walker,Jamie Walker,jwalker,jwalker@lab.local,HbFLglk9^i_vHb,Marketing,Marketing Coordinator,"OU=Marketing,OU=Users,OU=Lab,DC=lab,DC=local"
-Drew,Baker,Drew Baker,dbaker,dbaker@lab.local,0G=5_SNSOoyFqz,Engineering,Software Engineer,"OU=Engineering,OU=Users,OU=Lab,DC=lab,DC=local"
-Cameron,Phillips,Cameron Phillips,cphillips,cphillips@lab.local,%oN0$5952@pbcv,IT,IT Administrator,"OU=IT,OU=Users,OU=Lab,DC=lab,DC=local"
-Skyler,Johnson,Skyler Johnson,sjohnson,sjohnson@lab.local,F!r_9ve@l&&3dA,HR,HR Specialist,"OU=HR,OU=Users,OU=Lab,DC=lab,DC=local"
-Rowan,Clark,Rowan Clark,rclark,rclark@lab.local,dlnOQ9d$M_f64C,Finance,Accountant,"OU=Finance,OU=Users,OU=Lab,DC=lab,DC=local"
-Emerson,Scott,Emerson Scott,escott,escott@lab.local,T$rc9bs@&THh-1,Sales,Sales Representative,"OU=Sales,OU=Users,OU=Lab,DC=lab,DC=local"
-Finley,Roberts,Finley Roberts,froberts,froberts@lab.local,w0Nv%_06OyOYZ^,Marketing,Marketing Coordinator,"OU=Marketing,OU=Users,OU=Lab,DC=lab,DC=local"
-Hayden,Stewart,Hayden Stewart,hstewart,hstewart@lab.local,SJwfg^o@ROx4%P,Engineering,Software Engineer,"OU=Engineering,OU=Users,OU=Lab,DC=lab,DC=local"
-Logan,Wilson,Logan Wilson,lwilson,lwilson@lab.local,GptN9gmv8q7Zr_,IT,IT Administrator,"OU=IT,OU=Users,OU=Lab,DC=lab,DC=local"
-Sage,King,Sage King,sking,sking@lab.local,FGm$Jlpq&Zx29-,HR,HR Specialist,"OU=HR,OU=Users,OU=Lab,DC=lab,DC=local"
-Blake,Carter,Blake Carter,bcarter,bcarter@lab.local,#=3bhrJGfrJk0n,Finance,Accountant,"OU=Finance,OU=Users,OU=Lab,DC=lab,DC=local"
-Dakota,Edwards,Dakota Edwards,dedwards,dedwards@lab.local,nZf9nZ&2I0KH7c,Sales,Sales Representative,"OU=Sales,OU=Users,OU=Lab,DC=lab,DC=local"
-Elliot,Miller,Elliot Miller,emiller,emiller@lab.local,gf4XOmK@!lW74d,Marketing,Marketing Coordinator,"OU=Marketing,OU=Users,OU=Lab,DC=lab,DC=local"
-Harper,Hall,Harper Hall,hhall,hhall@lab.local,_0UnuA3!J^YbZy,Engineering,Software Engineer,"OU=Engineering,OU=Users,OU=Lab,DC=lab,DC=local"
-Kendall,Adams,Kendall Adams,kadams,kadams@lab.local,MPxeR02&@k4!Ya,IT,IT Administrator,"OU=IT,OU=Users,OU=Lab,DC=lab,DC=local"
-Marley,Campbell,Marley Campbell,mcampbell,mcampbell@lab.local,n@=f4163jFVwNH,HR,HR Specialist,"OU=HR,OU=Users,OU=Lab,DC=lab,DC=local"
-Peyton,Brown,Peyton Brown,pbrown,pbrown@lab.local,LhM6YwtGTGg$cV,Finance,Accountant,"OU=Finance,OU=Users,OU=Lab,DC=lab,DC=local"
-River,Lewis,River Lewis,rlewis,rlewis@lab.local,6%-wNpgHcb-t=F,Sales,Sales Representative,"OU=Sales,OU=Users,OU=Lab,DC=lab,DC=local"
-Shawn,Green,Shawn Green,sgreen,sgreen@lab.local,HLkw6@&qx0Br0$,Marketing,Marketing Coordinator,"OU=Marketing,OU=Users,OU=Lab,DC=lab,DC=local"
-Tatum,Turner,Tatum Turner,tturner,tturner@lab.local,88#xF3p-rsFt5+,Engineering,Software Engineer,"OU=Engineering,OU=Users,OU=Lab,DC=lab,DC=local"
+FirstName,LastName,DisplayName,SamAccountName,Password,Department,Title
+Alex,Smith,Alex Smith,asmith,4N9f3+v8lqxq!=,IT,IT Administrator
+Jordan,Moore,Jordan Moore,jmoore,xLe%Nj=9Y!-pnk,HR,HR Specialist
+Taylor,Wright,Taylor Wright,twright,XiTUqNp5*PDc@s,Finance,Accountant
+Morgan,Mitchell,Morgan Mitchell,mmitchell,sEx*^edbS!9R7m,Sales,Sales Representative
+Casey,Collins,Casey Collins,ccollins,LB1vh166@hqY8Y,Marketing,Marketing Coordinator
+Riley,Davis,Riley Davis,rdavis,07Zb!k^^Xt*G!z,Engineering,Software Engineer
+Avery,Young,Avery Young,ayoung,9%2jiXM*X0arJ@,IT,IT Administrator
+Quinn,Nelson,Quinn Nelson,qnelson,0HF8qlfS+^YP0^,HR,HR Specialist
+Parker,Evans,Parker Evans,pevans,&Tj48tB5t6ZEJS,Finance,Accountant
+Reese,Garcia,Reese Garcia,rgarcia,uSk@tE7OvCU5A3,Sales,Sales Representative
+Jamie,Walker,Jamie Walker,jwalker,HbFLglk9^i_vHb,Marketing,Marketing Coordinator
+Drew,Baker,Drew Baker,dbaker,0G=5_SNSOoyFqz,Engineering,Software Engineer
+Cameron,Phillips,Cameron Phillips,cphillips,%oN0$5952@pbcv,IT,IT Administrator
+Skyler,Johnson,Skyler Johnson,sjohnson,F!r_9ve@l&&3dA,HR,HR Specialist
+Rowan,Clark,Rowan Clark,rclark,dlnOQ9d$M_f64C,Finance,Accountant
+Emerson,Scott,Emerson Scott,escott,T$rc9bs@&THh-1,Sales,Sales Representative
+Finley,Roberts,Finley Roberts,froberts,w0Nv%_06OyOYZ^,Marketing,Marketing Coordinator
+Hayden,Stewart,Hayden Stewart,hstewart,SJwfg^o@ROx4%P,Engineering,Software Engineer
+Logan,Wilson,Logan Wilson,lwilson,GptN9gmv8q7Zr_,IT,IT Administrator
+Sage,King,Sage King,sking,FGm$Jlpq&Zx29-,HR,HR Specialist
+Blake,Carter,Blake Carter,bcarter,#=3bhrJGfrJk0n,Finance,Accountant
+Dakota,Edwards,Dakota Edwards,dedwards,nZf9nZ&2I0KH7c,Sales,Sales Representative
+Elliot,Miller,Elliot Miller,emiller,gf4XOmK@!lW74d,Marketing,Marketing Coordinator
+Harper,Hall,Harper Hall,hhall,_0UnuA3!J^YbZy,Engineering,Software Engineer
+Kendall,Adams,Kendall Adams,kadams,MPxeR02&@k4!Ya,IT,IT Administrator
+Marley,Campbell,Marley Campbell,mcampbell,n@=f4163jFVwNH,HR,HR Specialist
+Peyton,Brown,Peyton Brown,pbrown,LhM6YwtGTGg$cV,Finance,Accountant
+River,Lewis,River Lewis,rlewis,6%-wNpgHcb-t=F,Sales,Sales Representative
+Shawn,Green,Shawn Green,sgreen,HLkw6@&qx0Br0$,Marketing,Marketing Coordinator
+Tatum,Turner,Tatum Turner,tturner,88#xF3p-rsFt5+,Engineering,Software Engineer
