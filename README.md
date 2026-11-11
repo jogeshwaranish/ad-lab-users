@@ -4,6 +4,7 @@
 
 - `ad_dummy_users.csv`: first/last name, display name, username (`SamAccountName`), password, department and title. No domain or OU information, so it works with any domain.
 - `Import-LabUsers.ps1`: creates the users in whatever domain the machine it runs on belongs to.
+- `first-ad-script.ps1`: my first AD script. Removes the existing users in each OU (except Domain Controllers), then adds 5 new users from the CSV to each OU. Hardcoded to the `onuzaki.baka` domain and the CSV path in `Downloads`.
 
 Departments: IT, HR, Finance, Sales, Marketing, Engineering (5 users each).
 
